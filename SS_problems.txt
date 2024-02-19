@@ -1,0 +1,8 @@
+main program lang is not C or C++ (or C--)
+politics in docs and official site
+license (as long as the license is stricter than cc-by-sa, this is unacceptable)
+duck tapes (as an example, rules that can be replaced with straightforward code)
+bad lore/history (need more motivation)
+no client side mods
+
+to be continue...
